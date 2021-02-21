@@ -13,3 +13,5 @@ The flag is hidden in the poster on the main page
 ```
 HSCTF{F1R5T_FLA6_OM6}
 ```
+
+The second flag can be found with exiftools
